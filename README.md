@@ -3,7 +3,7 @@ Security Policy Development Project  A curated collection of cybersecurity polic
 
 
 
-Overview
+OVERVIEW
 
 This project showcases my ability to design and document security policies that support:
 
@@ -24,7 +24,7 @@ Each policy is written to be clear, enforceable, and adaptable to real-world ent
 
 
 
-Objectives
+OBJECTIVES
 
 Develop policies that address common organizational security requirements
 
@@ -53,7 +53,7 @@ Incident response planning
 
 
 
-Future Enhancements
+FUTURE ENHANCEMENT 
 
 Expand policy library (BYOD, Remote Access, Email Security, etc.)
 
