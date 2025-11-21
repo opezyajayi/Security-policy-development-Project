@@ -36,7 +36,8 @@ Establish a baseline for security compliance and audit readiness
 
 Showcase professional policy-writing and governance skills
 
-Skills Demonstrated
+
+SKILLS DEMONSTRATED
 
 Security policy development & documentation
 
